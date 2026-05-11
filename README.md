@@ -5,11 +5,17 @@
 
 <img align="right" alt="coding" width="400" src= "https://miro.medium.com/v2/resize:fit:1400/1*kyXFueAnw4aEBbrQcUMLwg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraj87&label=Profile%20views&color=0e75b6&style=flat" alt="mdraj87" /> </p>
+
 
 - 📫 How to reach me **mdraj87970@gmail.com**
 
 - ⚡ Fun fact **I think I am a "Baalak"😁**
+
+<br><br><br><br><br>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +35,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raj&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=raj&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraj87&label=Profile%20views&color=0e75b6&style=flat" alt="mdraj87" /> </p>
 
 
