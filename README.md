@@ -1,8 +1,16 @@
+
+ 
 ![logo](https://github.com/MdRaj87/MdRaj87/blob/main/Banner.png/6057626466058441483.jpg)
-<h1 align="center">Hi 👋, I'm Raj </h1>
+<h1 align="center">  
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F71F&width=460&separator=%3C&lines=console.log(+%22Hi+%F0%9F%91%8B%2C+I'm+Raj%22);)](https://git.io/typing-svg)
+  
+</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <br>
 <br>
+
+
 
 <img align="right" alt="coding" width="400" src= "https://miro.medium.com/v2/resize:fit:1400/1*kyXFueAnw4aEBbrQcUMLwg.gif">
 
